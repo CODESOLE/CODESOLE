@@ -28,3 +28,11 @@
 </div>
 
 ###
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&repo=rustorrent)](https://github.com/codesole/rustorrent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&repo=ini-parser-cpp)](https://github.com/codesole/ini-parser-cpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&repo=rust-simple-pathfindings)](https://github.com/codesole/rust-simple-pathfindings)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&repo=opengl_learn)](https://github.com/codesole/opengl_learn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&repo=rust-networking)](https://github.com/codesole/rust-networking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&repo=visu_rust)](https://github.com/codesole/visu_rust)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&repo=crypt)](https://github.com/codesole/crypt)
