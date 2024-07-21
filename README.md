@@ -24,11 +24,11 @@
 
 ###
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&repo=rustorrent)](https://github.com/codesole/rustorrent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&repo=ini-parser-cpp)](https://github.com/codesole/ini-parser-cpp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&repo=car_client)](https://github.com/codesole/car_client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&repo=rust-simple-pathfindings)](https://github.com/codesole/rust-simple-pathfindings)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&repo=opengl_learn)](https://github.com/codesole/opengl_learn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&repo=rust-networking)](https://github.com/codesole/rust-networking)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&repo=visu_rust)](https://github.com/codesole/visu_rust)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&repo=crypt)](https://github.com/codesole/crypt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&text_color=e6edf3&border_color=30363d&bg_color=0d1117&repo=rustorrent)](https://github.com/codesole/rustorrent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&text_color=e6edf3&border_color=30363d&bg_color=0d1117&repo=ini-parser-cpp)](https://github.com/codesole/ini-parser-cpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&text_color=e6edf3&border_color=30363d&bg_color=0d1117&repo=car_client)](https://github.com/codesole/car_client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&text_color=e6edf3&border_color=30363d&bg_color=0d1117&repo=rust-simple-pathfindings)](https://github.com/codesole/rust-simple-pathfindings)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&text_color=e6edf3&border_color=30363d&bg_color=0d1117&repo=opengl_learn)](https://github.com/codesole/opengl_learn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&text_color=e6edf3&border_color=30363d&bg_color=0d1117&repo=rust-networking)](https://github.com/codesole/rust-networking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&text_color=e6edf3&border_color=30363d&bg_color=0d1117&repo=visu_rust)](https://github.com/codesole/visu_rust)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&text_color=e6edf3&border_color=30363d&bg_color=0d1117&repo=crypt)](https://github.com/codesole/crypt)
