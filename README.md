@@ -26,6 +26,9 @@
 
 ###
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&theme=github_dark&repo=toy-redis)](https://github.com/codesole/toy-redis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&theme=github_dark&repo=git-starter-rust)](https://github.com/codesole/git-starter-rust)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&theme=github_dark&repo=zterimg)](https://github.com/codesole/zterimg)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&theme=github_dark&repo=rustorrent)](https://github.com/codesole/rustorrent)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&theme=github_dark&repo=ini-parser-cpp)](https://github.com/codesole/ini-parser-cpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesole&show_owner=true&theme=github_dark&repo=car_client)](https://github.com/codesole/car_client)
